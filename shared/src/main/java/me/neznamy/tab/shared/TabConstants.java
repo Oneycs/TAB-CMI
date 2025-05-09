@@ -208,7 +208,7 @@ public class TabConstants {
         public static final String WORLD_ONLINE = "%worldonline%";
         public static final String SERVER = "%server%";
         public static final String SERVER_ONLINE = "%serveronline%";
-        public static final String PLAYER = "%player%";
+        public static final String PLAYER = "%cmi_user_nickname%";
         public static final String TIME = "%time%";
         public static final String DATE = "%date%";
         public static final String PING = "%ping%";
