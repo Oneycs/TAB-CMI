@@ -4,10 +4,6 @@ import lombok.AccessLevel;
 import lombok.NoArgsConstructor;
 import org.jetbrains.annotations.NotNull;
 
-/**
- * A class containing various constants used everywhere in the plugin
- * to allow easier overview and modification to prevent inconsistencies.
- */
 @NoArgsConstructor(access = AccessLevel.PRIVATE)
 public class TabConstants {
 
